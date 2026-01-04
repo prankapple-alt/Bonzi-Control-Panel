@@ -1,0 +1,1 @@
+Requires .NET SDK 9.0 x64, Windows Desktop runtime 9.0.11 x64 and Double Agent.
